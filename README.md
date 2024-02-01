@@ -1,5 +1,5 @@
 # How to start app
-Path to ./boilerplate and type this into console:
+Path to ./electron-boilerplate and type this into console:
 ```
 npm start
 ```
